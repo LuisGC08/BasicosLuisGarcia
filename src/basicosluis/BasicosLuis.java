@@ -15,7 +15,13 @@ public class BasicosLuis {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        boolean logic=true;
+		if(logic=true) {
+			System.out.println("Verdadero");
+		}
+		else {
+			System.out.println("false");
+		}
     }
     
 }
